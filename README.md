@@ -28,7 +28,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=1572B6)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++&logoColor=339933)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#&logoColor=339933)&nbsp;
+![C#](https://img.shields.io/badge/language-C%23-brightgreen)&nbsp;
 
 
 
