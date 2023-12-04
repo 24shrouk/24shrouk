@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter-%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a computer science student and Flutter developer.
@@ -28,6 +28,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=1572B6)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++&logoColor=339933)&nbsp;
+![C#](https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png);
 
 
 
